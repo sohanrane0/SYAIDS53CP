@@ -6,3 +6,5 @@ int try_fun(int n)
             cnt = cnt + 1;
     return cnt;
 }
+
+O(n²)
